@@ -162,4 +162,4 @@ LaunchedEffect(Unit) {
 }
 ```
 
-[README.ru](https://github.com/EugenProg/KoGen-navigation_demo/new/master?filename=README.ru.md)
+[README.ru](https://github.com/EugenProg/KoGen-navigation_demo/blob/master/README.ru.md)
